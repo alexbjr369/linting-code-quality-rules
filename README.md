@@ -1,0 +1,1 @@
+# linting-code-quality-rules
