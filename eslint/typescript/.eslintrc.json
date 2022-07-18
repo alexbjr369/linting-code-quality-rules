@@ -1,0 +1,12 @@
+{
+  "env": {
+    "es2022": true,
+    "browser": true
+  },
+  "parser": "@typescript-eslint/parser",
+  "extends": ["airbnb-base", "prettier"],
+  "plugins": ["@typescript-eslint", "prettier"],
+  "rules": {
+    "prettier/prettier": "error"
+  }
+}
