@@ -12,4 +12,6 @@ This project aims to be a compilation of **Stylelint** and **ESLint** configurat
 
 ### ESLint
 
-**`JavaScript Implementation`:** **[`Website`](https://alexbleggi.netlify.app/docs/projects/linting-code-quality-rules/eslint/javascript)** **[`Repository`](https://github.com/alexbjr369/linting-code-quality-rules/tree/main/eslint/javascript)** **[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-code-quality-rules/eslint/javascript/implementation)**
+**JavaScript Implementation:** **[`Website`](https://alexbleggi.netlify.app/docs/projects/linting-code-quality-rules/eslint/javascript)** **[`Repository`](https://github.com/alexbjr369/linting-code-quality-rules/tree/main/eslint/javascript)** **[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-code-quality-rules/eslint/javascript/implementation)**
+
+**TypeScript Implementation:** **[`Website`](https://alexbleggi.netlify.app/docs/projects/linting-code-quality-rules/eslint/typescript)** **[`Repository`](https://github.com/alexbjr369/linting-code-quality-rules/tree/main/eslint/typescript)** **[`Implementation`](https://alexbleggi.netlify.app/docs/projects/linting-code-quality-rules/eslint/typescript/implementation)**
